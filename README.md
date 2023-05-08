@@ -13,10 +13,15 @@ My preferred front-end frameworks: ReactJs
 Technologies used in programming:
 
 ► HTML
+
 ► CSS
+
 ► Javascript
+
 ► ReactJS
+
 ► Bootstrap 
+
 ► Other: JSON, Github, Vs Code, AJAX, Agile
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
